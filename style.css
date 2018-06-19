@@ -1,0 +1,62 @@
+body {
+	margin: 0 auto;
+	padding-top: 10px;
+}
+
+.jumbotron {
+	text-align: center;
+	background-image: url(images/bg2.jpg);
+}
+
+.jumbotron h1 {
+	padding-top: 2%;
+	color: white;
+	font-size: 40px;
+	font-weight: lighter;
+}
+
+.jumbotron p {
+	color: white;
+	font-size: 16px;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+.jumbotron button {
+	background-color: white;
+	padding: 10px;
+	border-radius: 5px;
+	border: 0;
+}
+
+.btn2 {
+	padding: 2%;
+	margin-bottom: 5%;
+
+}
+
+.seccion-foto {
+	border: solid 5px silver;
+	border-radius: 20px;
+	margin-bottom: 10%;
+}
+
+.img-responsive {
+	max-width: 100%;
+	max-height: 100%;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+}
+
+.seccion-foto h3 {
+	padding-top: 2%;
+}
+
+.seccion-foto p {
+	font-size: 12px;
+	padding: 5%;
+}
+
+.col-md-4 {
+	text-align: center;
+}
