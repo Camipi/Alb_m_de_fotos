@@ -60,3 +60,38 @@ body {
 .col-md-4 {
 	text-align: center;
 }
+
+.footer {
+	height: 50px;
+	text-align: center;
+	font-size: 12px;
+}
+
+.separador {
+	width: 100%;
+	height: 1px;
+	background-color: silver;
+}
+
+.foto {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: block;
+}
+
+.foot {
+	background-color: #ededed;
+	line-height: 40px;
+	margin: 0;
+}
+
+.foot p {
+	margin: 0;
+}
+
+.footer {
+	margin: 0;
+}
+
+
+
