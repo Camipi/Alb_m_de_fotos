@@ -67,31 +67,27 @@ body {
 	font-size: 12px;
 }
 
+.cam {
+	font-size: 50px;
+	text-align: center;
+}
+
 .separador {
 	width: 100%;
 	height: 1px;
 	background-color: silver;
 }
 
-.foto {
-	padding-top: 10px;
-	padding-bottom: 10px;
-	display: block;
-}
-
 .foot {
 	background-color: #ededed;
-	line-height: 40px;
-	margin: 0;
+	border-bottom: solid 1px #dddddd;
+	border-top: solid 1px #dddddd;
+	padding-top: 10px;
+	margin-bottom: 20px;
 }
 
-.foot p {
-	margin: 0;
-}
 
-.footer {
-	margin: 0;
-}
+
 
 
 
